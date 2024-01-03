@@ -1,0 +1,58 @@
+{
+  "cards": [
+    {
+      "question": "jvjgv",
+      "answer": "hghgvc\n",
+      "status": "Want to Learn",
+      "lastModified": "2024-01-03T19:58:22.203Z",
+      "id": 1
+    },
+    {
+      "question": "What is an apple?",
+      "answer": "Apple is fruit ",
+      "status": "Learned",
+      "lastModified": "2024-01-03T21:31:57.765Z",
+      "id": 2
+    }
+  ],
+  "messages": [
+    {
+      "subject": "fsdfsd",
+      "email": "abidzadequdret@gmail.com",
+      "address": "asdasdasdas",
+      "content": "asdsadasdasdasdas",
+      "id": 1
+    },
+    {
+      "subject": "asdasd",
+      "email": "asdasdas@asdas.com",
+      "address": "asdsadas",
+      "content": "asdsadas",
+      "id": 2
+    },
+    {
+      "subject": "fkhvbfhvrfrfrefr",
+      "email": "refrfrefr@fdvfkhvbf",
+      "address": "efrfer",
+      "content": "rffrrrefr",
+      "id": 3
+    },
+    {
+      "subject": "jdhfbjhfv",
+      "email": "skdkdjkn@gmail.com",
+      "address": "dskjbfhjvbjhv",
+      "content": "dchjbjhfjhbvhjf",
+      "id": 4
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "https://github.com/dodelvin/Assignment-2"
+    },
+    {
+      "id": 2,
+      "name": "https://github.com/dodelvin/elvinaliyev"
+    }
+  ]
+}
